@@ -59,7 +59,7 @@ public class HomeWork_10 {
     		}
     		
     	}
-    	System.out.println("\nThe sore array is: "+ "{" + A[0]+"," + A[1]+ ","
+    	System.out.println("\nThe sort array is: "+ "{" + A[0]+"," + A[1]+ ","
     	+ A[2] +","+ A[3]+"," + A[4]+ "," + A[5] + "}");
 	}
 
@@ -69,7 +69,7 @@ public class HomeWork_10 {
 ## Console output
 ```
 
-The sore array is: {13,14,15,20,24,50}
+The sort array is: {13,14,15,20,24,50}
 
 ```
 ## Command Prompt
